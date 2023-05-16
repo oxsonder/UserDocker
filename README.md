@@ -23,4 +23,5 @@
 | [<img src="http" height="16px" />](https://github.com/oxsonder) | **[gdy666/lucky](https://hub.docker.com/r/gdy666/lucky)** | 内网端口转发服务 | **[安装](https://github.com/oxsonder)** |
 | [<img src="https://gofrp.org/favicons/favicon-32x32.png" height="16px" />](https://github.com/oxsonder) | **[snowdreamtech/frpc](https://hub.docker.com/r/snowdreamtech/frpc)** | 可用于内网穿透的高性能的反向代理应用 | **[安装](https://github.com/oxsonder)** |
 | [<img src="https://www.wireguard.com/img/icons/favicon-512.png" height="16px" />](https://github.com/oxsonder) | **[linuxserver/wireguard](https://hub.docker.com/r/linuxserver/wireguard)** | 易于配置、快速且安全的开源 VPN | **[安装](https://github.com/oxsonder)** |
-| [<img src="http://aria2.github.io/favicon.png" height="16px" />](https://github.com/oxsonder) | **[p3terx/aria2-pro](https://hub.docker.com/r/linuxserver/wireguard)** | 轻量级多协议多源命令行下载工具 | **[安装](https://github.com/oxsonder)** |
+| [<img src="http://aria2.github.io/favicon.png" height="16px" />](https://github.com/oxsonder) | **[p3terx/aria2-pro](https://hub.docker.com/r/p3terx/aria2-pro)** | 轻量级多协议多源命令行下载工具 | **[安装](https://github.com/oxsonder)** |
+| [<img src="https://bitwarden.com/icons/icon-144x144.png" height="16px" />](https://github.com/oxsonder) | **[vaultwarden/server](https://hub.docker.com/r/vaultwarden/server)** | 开源密码管理器 | **[安装](https://github.com/oxsonder)** |
